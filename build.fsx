@@ -1,4 +1,4 @@
-#r "paket: groupref build //"
+#r "paket: groupref netcorebuild //"
 #load "./.fake/build.fsx/intellisense.fsx"
 
 #if !FAKE
